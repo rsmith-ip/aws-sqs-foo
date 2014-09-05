@@ -7,6 +7,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+venv/
 env/
 bin/
 build/
@@ -44,6 +45,9 @@ coverage.xml
 
 # Rope
 .ropeproject
+
+# PyCharm
+.idea/workspace.xml
 
 # Django stuff:
 *.log
